@@ -48,9 +48,12 @@ enthusiastic about software engineering topics and eager to learn.
 - 🌱 I’m currently learning machine learning and Golang.
 - 👯 I’m looking to collaborate on open-source projects.
 - 🤔 I’m looking for mentorship.
-- ⚡ Fun fact: I like coffee for its taste not for tits caffeine 🤣.
+- ⚡ Fun fact: I like coffee for its taste not for its caffeine 🤣.
 
 <p align="center">
+	<img
+		src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"
+	/>
 	<img
 		src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"
 	/>
