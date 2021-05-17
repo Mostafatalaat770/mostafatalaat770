@@ -91,4 +91,4 @@ enthusiastic about software engineering topics and eager to learn.
 ![Anurag's GitHub
 stats](https://github-readme-stats.vercel.app/api?username=mostafatalaat770&show_icons=true)
 ![Top
-Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mostafatalaat770&layout=compact&hide=shaderlab)
+Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mostafatalaat770&layout=compact&hide=shaderlab,css,html)
