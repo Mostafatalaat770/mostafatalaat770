@@ -48,7 +48,7 @@ enthusiastic about software engineering topics and eager to learn.
 - 🌱 I’m currently learning machine learning and Golang.
 - 👯 I’m looking to collaborate on open-source projects.
 - 🤔 I’m looking for mentorship.
-- ⚡ Fun fact: I like coffee for its taste not for its caffeine 🤣.
+- ⚡ Fun fact: I like coffee for the taste, not for the caffeine 🤣.
 
 <p align="center">
 	<img
