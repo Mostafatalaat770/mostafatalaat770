@@ -1,7 +1,7 @@
 [![Typing
-SVG](https://readme-typing-svg.herokuapp.com?font=Source+Sans+Pro&vCenter=true&lines=Hi%2C+I'm+a+computer+engineering+undergraduate.;Nice+to+meet+you...)](https://git.io/typing-svg)
+SVG](https://readme-typing-svg.herokuapp.com?font=Source+Sans+Pro&vCenter=true&lines=Hi%2C+I'm+a+software+engineer+at+Bonuz.;Nice+to+meet+you+:D)](https://git.io/typing-svg)
 
-I'm an Egyptian computer enigneering undergraduate at Alexandria University,
+I'm an software engineer at Bonuz,
 enthusiastic about software engineering topics and eager to learn.
 
 <p align="center">
@@ -44,8 +44,8 @@ enthusiastic about software engineering topics and eager to learn.
 
 </p>
 
-- 🔭 I’m currently working on full-stack projects.
-- 🌱 I’m currently learning blockchain.
+- 🔭 I’m currently working on frontend/backend projects.
+- 🌱 I’m currently learning web development.
 - 👯 I’m looking to collaborate on open-source projects.
 - 🤔 I’m looking for mentorship.
 - ⚡ Fun fact: I like coffee for the taste, not for the caffeine 🤣.
@@ -75,18 +75,69 @@ enthusiastic about software engineering topics and eager to learn.
 	<img
 		src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white"
 	/>
+		<img
+		src="https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white"
+	/>
 	<img
 		src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"
 	/>
 	<img
-		src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"
+		src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB"
 	/>
 	<img
 		src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"
+	/>	
+    <img
+		src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white"
 	/>
-	<img
+    <img
+		src="https://img.shields.io/badge/hyperledger-2F3134?style=for-the-badge&logo=hyperledger&logoColor=white"
+	/>
+    <img
+		src="https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white"
+	/>
+    <img
+		src="https://img.shields.io/badge/gitlab%20ci-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white"
+	/>
+    <img
+		src="https://img.shields.io/badge/-Storybook-FF4785?style=for-the-badge&logo=storybook&logoColor=white"
+	/>
+    <img
+		src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white"
+	/>
+    <img
+		src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06"
+	/>
+    <img
+		src="https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens"
+	/>
+    <img
+		src="https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white"
+	/>
+    <img
+		src="https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=whitehttps://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white"
+	/>
+    <img
+		src="https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white"
+	/>
+    <img
+		src="https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white"
+	/>
+    <img
+		src="https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white"
+	/>
+    <img
+		src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white"
+	/>
+    <img
+		src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"
+	/>
+    <img
+		src="https://img.shields.io/badge/-mocha-%238D6748?style=for-the-badge&logo=mocha&logoColor=white"
+	/>
+    <img
 		src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"
 	/>
 	<img
-	src=https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
+	    src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visualstudiocode&logoColor=FFFFF"/>
 </p>
