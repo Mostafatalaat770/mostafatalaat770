@@ -47,8 +47,7 @@ enthusiastic about software engineering topics and eager to learn.
 - 🔭 I’m currently working on frontend/backend projects.
 - 🌱 I’m currently learning web development.
 - 👯 I’m looking to collaborate on open-source projects.
-- 🤔 I’m looking for mentorship.
-- ⚡ Fun fact: I like coffee for the taste, not for the caffeine 🤣.
+- 👀 I'm exploring authentication and OAuth.
 
 <p align="center">
 	<img
