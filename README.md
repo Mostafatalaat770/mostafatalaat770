@@ -1,7 +1,7 @@
 [![Typing
-SVG](https://readme-typing-svg.herokuapp.com?font=Source+Sans+Pro&vCenter=true&lines=Hi%2C+I'm+a+software+engineer+at+Bonuz.;Nice+to+meet+you+:D)](https://git.io/typing-svg)
+SVG](https://readme-typing-svg.herokuapp.com?font=Source+Sans+Pro&vCenter=true&lines=Hi%2C+I'm+a+software+engineer.;Nice+to+meet+you+:D)](https://git.io/typing-svg)
 
-I'm an software engineer at Bonuz,
+I'm a software engineer,
 enthusiastic about software engineering topics and eager to learn.
 
 <p align="center">
@@ -14,14 +14,8 @@ enthusiastic about software engineering topics and eager to learn.
 	<a href="https://github.com/mostafatalaat770">
 		<img
 			alt="followers"
-			title="Follow me on Github"
+			title="Follow me on GitHub"
 			src="https://img.shields.io/github/followers/mostafatalaat770?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Follow"
-	/></a>
-	<a href="https://twitter.com/mostafatalaat77">
-		<img
-			alt="followers"
-			title="Follow me on Twitter"
-			src="https://img.shields.io/twitter/follow/mostafatalaat77?color=1DA1F2&labelColor=1DA1F2&label=Follow&logo=twitter&logoColor=white&style=for-the-badge"
 	/></a>
 	<a href="mailto:mostafatalaat770@gmail.com">
 		<img
@@ -44,10 +38,9 @@ enthusiastic about software engineering topics and eager to learn.
 
 </p>
 
-- 🔭 I’m currently working on frontend/backend projects.
-- 🌱 I’m currently learning web development.
+- 🔭 I’m currently working on full-stack projects.
 - 👯 I’m looking to collaborate on open-source projects.
-- 👀 I'm exploring authentication and OAuth.
+- 👀 I'm exploring blockchain and DeFi.
 
 <p align="center">
 	<img
